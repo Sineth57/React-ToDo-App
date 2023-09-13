@@ -1,5 +1,6 @@
 .app{
     background-color: antiquewhite;
+   /* background-color: linear-gradient(to right,  #ff6600, #33cc33); */
     min-height: 100vh;
 
 }
